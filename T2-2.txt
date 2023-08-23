@@ -1,0 +1,5 @@
+print("segundo archivo")
+print(" Y yo llegué a tu casa temblando de miedo,
+Y te pedí el perdón que yo nunca concedo,
+Te confesé que no conseguí reemplazarte
+Y te dejé en tu alcoba después de besarte")
